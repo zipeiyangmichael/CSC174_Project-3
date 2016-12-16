@@ -27,7 +27,7 @@
 
         <div class="inline2">
         <div class="s2-border2">
-        <p></p>
+        <p>In University of Rochester, Zipei took two Web Design Courses with Professor Robert Kostin: CSC170 in his Freshman year and CSC174 in Sophomore year. From the two courses, Zipei learnt how to build front-end webpages through HTML, CSS, Javascript and Framework, etc. In the two CS courses, Zipei has done several Labs and Projects for practice and the list below shows Zipei's work from the past two semesters.</p>
         </div><!--.s2-border2-->
         </div><!--.inline2-->        
 
@@ -40,7 +40,7 @@
           <div class="s2-border">
 		<img src="images/p1-2.png">
 		<h4>CSC170-Project 1</h4>
-		<p><b>Description:</b> Project about plain HTML done in CSC170</p>
+		<p><b>Description：</b>Project about plain HTML done in CSC170</p>
 		<a href="http://www.urcsc174.org/zyang35/CSC170_Project%201/">Check It Out</a>
 
 

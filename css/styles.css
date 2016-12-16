@@ -12,10 +12,12 @@
 
 .home-s2 article{
 	border: 5px solid #66b3ff;
+	background-color:  #f2f2f2;
 }
 
 .home-s2 aside{
-	border: 5px solid white;
+	border: 5px solid orange;
+	background-color:  #f2f2f2;
 }
 
 .home-s2-div {
