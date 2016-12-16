@@ -2,23 +2,36 @@
 
 <?php include "inc/nav.inc"; ?>
 
-<div class="section">
 
-<div class="carousel carousel-slider" data-indicators="true">
-<div class="carousel-fixed-item center">
-      <a href="http://www.urcsc174.org/zyang35/" class="btn waves-effect grey white-text darken-text-2">Zipei's Work Index</a>
-    </div>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%201/"><img src="images/p1.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%202/"><img src="images/p2.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%203/"><img src="images/p3.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Project%201/"><img src="images/p4.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Project%202/"><img src="images/p5.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%209/"><img src="images/L1.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/lab11/"><img src="images/L2.png"></a>
-    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/"><img src="images/L3.png"></a>
-</div>
 
-</section>
+
+
+<div class="carousel">
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%201/"><img src="images/p1.png">
+   CSC170-Project 1
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%202/"><img src="images/p2.png">
+    CSC170-Project 2
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%203/"><img src="images/p3.png">
+    CSC170-Project 3
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Project%201/"><img src="images/p4.png">
+    CSC174-Project 1
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Project%202/"><img src="images/p5.png">
+    CSC174-Project 1
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%209/"><img src="images/L1.png">
+    CSC174-Lab 9
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/lab11/"><img src="images/L2.png">
+    CSC174-Lab 11
+    </a>
+    <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/"><img src="images/L3.png">
+    CSC174-Lab 6
+    </a>
+  </div>
 
 
   		<div class="section ">

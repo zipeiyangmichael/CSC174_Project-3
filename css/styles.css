@@ -109,6 +109,15 @@
 	font-size: 150%;
 }
 
+.carousel .carousel-item {
+	width:500px;
+	padding-top: 100px;
+}
+
+.carousel a {
+	text-align: center;
+}
+
 a:hover{
 	color: orange;
 }

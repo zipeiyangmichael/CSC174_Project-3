@@ -1,6 +1,6 @@
-<div class="navbar-fixed">
-<nav>
-    <div class="nav-wrapper #2196f3 blue">
+
+<nav class="nav #2196f3 blue">
+    <div class="nav-wrapper ">
     <a href="home.php" class="brand-logo ">ZYANG</a>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 
@@ -18,6 +18,5 @@
 
     </div>
   </nav>
-</div>
 
       
