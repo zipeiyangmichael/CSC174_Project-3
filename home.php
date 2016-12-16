@@ -3,7 +3,7 @@
 <?php include "inc/nav.inc"; ?>
 
 <div class="parallax-container valign-wrapper">
-      <div class="parallax"><img src="images/background1.png"></div>
+      <div class="parallax"><img src="images/background1.png" alt="bg1"></div>
 </div>
 
 <div class="row home-s1">
@@ -19,7 +19,7 @@
 </div><!--.row-->
 
 <div class="parallax-container valign-wrapper">
-   <div class="parallax"><img src="images/background2.jpg"></div>
+   <div class="parallax"><img src="images/background2.jpg" alt="bg2"></div>
 </div>
 
 <div class="row home-s2">
@@ -66,6 +66,7 @@
 </ul>
 </div>
 </aside>
+</div><!--.home-s2-->
 
 
 
@@ -73,5 +74,5 @@
 
 <?php include "inc/scripts.inc" ?>
 
- </body>
+</body>
 </html>
