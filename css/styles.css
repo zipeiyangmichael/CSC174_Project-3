@@ -23,13 +23,73 @@
 	font-weight: bold;
 }
 
+.home-s2-li li{
+	list-style-type: disc;
+	margin-left: 30px;
+}
+
 .home-s1-h1 h1{
 	color: #66b3ff;
 }
 
+.pf-s2 h2{
+	text-align: center;
+	color: #66b3ff;
+
+}
+
+.pf-s2 h3{
+	padding-left: 10px;
+}
+
+
 .brand-logo {
 	font-family: 'Bevan', cursive;
 	margin-left: 10px;
+}
+
+.inline1 {
+	display: flex;
+	width: 100%;
+}
+
+.inline1 div {
+	width: 50%;
+}
+
+.inline1 p{
+	font-size: 120%;
+}
+
+.inline2 {
+	display: flex;
+	width: 100%;
+}
+
+.inline2 div {
+	width: 33%;
+}
+
+.s2-border {
+	border: 5px solid white;
+	line-height: 160%;
+	padding: 10px;
+	margin:5px;
+	background-color: #66b3ff;
+}
+.s2-border li {
+	list-style-type: square;
+	margin-left: 30px;
+
+}
+
+.s2-border a{
+    font-family: 'Chewy', cursive;
+    color: black;
+    font-size: 200%;
+}
+a:hover{
+	color: white;
 }
 
 h1{
@@ -50,4 +110,21 @@ body {
 
 a{
 	font-family: 'Catamaran', sans-serif;
+}
+
+
+
+
+
+@media (max-width: 1036px) {
+	.inline1{
+		display: inline;
+		width: 100%;
+	}
+	.inline1 div{
+			width:100%;
+		}
+	.inline1 img{
+		display: none;
+	}
 }
