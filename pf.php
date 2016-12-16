@@ -5,7 +5,7 @@
 
 
 
-
+<div class="pf-carousel">
 <div class="carousel">
     <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC170_Project%201/"><img src="images/p1.png">
    CSC170-Project 1
@@ -31,6 +31,7 @@
     <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/"><img src="images/L3.png">
     CSC174-Lab 6
     </a>
+  </div>
   </div>
 
 

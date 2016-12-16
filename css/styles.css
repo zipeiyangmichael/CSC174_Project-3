@@ -34,6 +34,12 @@
 	color: #66b3ff;
 }
 
+.pf-carousel{
+	border-top: 10px solid orange;
+	border-bottom: 10px solid orange;
+	margin-top: 50px;
+}
+
 .pf-s2 h2{
 	text-align: center;
 	color: #66b3ff;
