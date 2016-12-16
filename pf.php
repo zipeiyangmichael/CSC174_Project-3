@@ -2,6 +2,8 @@
 
 <?php include "inc/nav.inc"; ?>
 
+<div class="section">
+
 <div class="carousel carousel-slider" data-indicators="true">
 <div class="carousel-fixed-item center">
       <a href="http://www.urcsc174.org/zyang35/" class="btn waves-effect grey white-text darken-text-2">Zipei's Work Index</a>
@@ -16,10 +18,19 @@
     <a class="carousel-item" href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/"><img src="images/L3.png"></a>
 </div>
 
+</section>
+
 
   		<div class="section ">
     	<div class="row pf-s2">
              <h2>Accomplishment</h2>
+
+        <div class="inline2">
+        <div class="s2-border2">
+        <p></p>
+        </div><!--.s2-border2-->
+        </div><!--.inline2-->        
+
 			 <h3>Website List</h3>
 
 
@@ -28,60 +39,68 @@
 
           <div class="s2-border">
 		<img src="images/p1-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC170_Project%201/">CSC170-Project 1</a>
+		<h4>CSC170-Project 1</h4>
 		<p><b>Description:</b> Project about plain HTML done in CSC170</p>
+		<a href="http://www.urcsc174.org/zyang35/CSC170_Project%201/">Check It Out</a>
 
 
-              </div><!--.colophon-border-->
+              </div><!--.s2-border-->
 
               <div class="s2-border">
 		<img src="images/p2-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC170_Project%202/">CSC170-Project 2</a>
+		<h4>CSC170-Project 2</h4>
 		<p><b>Description:</b> Project about CSS done in CSC170</p>
-                 </div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC170_Project%202/">Check It Out</a>
+                 </div><!--.s2-border-->
          </div>
 
 <div class="inline1">
          <div class="s2-border">
 		<img src="images/p3-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC170_Project%203/">CSC170-Project 3</a>
+		<h4>CSC170-Project 3</h4>
 		<p><b>Description:</b> Project about MobileFriendly done in CSC170</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC170_Project%203/">Check It Out</a>
+		</div><!--.s2-border-->
 
 	    <div class="s2-border">
 		<img src="images/p4-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC174_Project%201/">CSC174-Project 1</a>
+		<h4>CSC174-Project 1</h4>
 		<p><b>Description:</b> Project about Framework done in CSC174</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC174_Project%201/">Check It Out</a>
+		</div><!--.s2-border-->
 </div>
 
 <div class="inline1">
 		<div class="s2-border">
 		<img src="images/p5-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC174_Project%202/">CSC174-Project 2</a>
+		<h4>CSC174-Project 2</h4>
 		<p><b>Description:</b> Project about Framework Customization done in CSC174</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC174_Project%202/">Check It Out</a>
+		</div><!--.s2-border-->
 
 		<div class="s2-border">
 		<img src="images/L1-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC174_Lab%209/">CSC174-Lab 9</a>
+		<h4>CSC174-Lab 9</h4>
 		<p><b>Description:</b> Lab about Long-scrolly Webpage done in CSC174</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC174_Lab%209/">Check It Out</a>
+		</div><!--.s2-border-->
 </div>
 
 <div class="inline1">
 
 		<div class="s2-border">
 		<img src="images/L2-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/lab11/">CSC174-Lab 11</a>
+		<h4>CSC174-Lab 11</h4>
 		<p><b>Description:</b> Lab about WordPress done in CSC174</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/lab11/">Check It Out</a>
+		</div><!--.s2-border-->
 
 		<div class="s2-border">
 		<img src="images/L3-2.png">
-		<br><br><a href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/">CSC174-Lab 6</a>
+		<h4>CSC174-Lab 6</h4>
 		<p><b>Description:</b> Lab about CSS Layout done in CSC174</p>
-		</div><!--.colophon-border-->
+		<a class="link" href="http://www.urcsc174.org/zyang35/CSC174_Lab%206/">Check It Out</a>
+		</div><!--.s2-border-->
 
 						     
 
