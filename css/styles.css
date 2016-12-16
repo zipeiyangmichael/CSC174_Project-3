@@ -1,0 +1,53 @@
+.home-s1 h1{
+	text-align: center;
+}
+
+.home-s2 h2{
+	text-align: center;
+}
+
+.home-s2 p{
+	font-size: 150%;
+}
+
+.home-s2 article{
+	border: 5px solid #66b3ff;
+}
+
+.home-s2 aside{
+	border: 5px solid white;
+}
+
+.home-s2-div {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.home-s1-h1 h1{
+	color: #66b3ff;
+}
+
+.brand-logo {
+	font-family: 'Bevan', cursive;
+	margin-left: 10px;
+}
+
+h1{
+    font-family: 'Bevan', cursive;
+}
+
+h2, h3{
+    font-family: 'Chewy', cursive;
+}
+
+p{
+	font-family: 'Catamaran', sans-serif;
+}
+
+body {
+	background-color: #e6e6e6;
+}
+
+a{
+	font-family: 'Catamaran', sans-serif;
+}
