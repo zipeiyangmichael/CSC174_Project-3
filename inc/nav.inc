@@ -7,13 +7,13 @@
       <ul class="right hide-on-med-and-down">
           <li><a href="home.php">Home</a></li>
           <li><a href="pf.php">Portfolio</a></li>
-          <li><a href="contact-form.php">Contact Form</a></li>
+          <li><a href="html-form.php">Contact Form</a></li>
       </ul>
 
       <ul class="side-nav" id="mobile-demo">
           <li><a href="home.php">Home</a></li>
           <li><a href="pf.php">Portfolio</a></li>
-          <li><a href="contact-form.php">Contact Form</a></li>
+          <li><a href="html-form.php">Contact Form</a></li>
       </ul>
 
     </div>
