@@ -2,29 +2,38 @@
 
 <?php include "inc/nav.inc"; ?>
 
-<h1>Phonebook Entry</h1>
+<h1 class="s3-title">Contact Me</h1>
 
-<form method="post" action="database-write.php"> 
+<div class="s3-border">
 
-<div>
-<label for="firstname">
-First name:
-</label>
-<input type="firstname" name="firstname" id="firstname"> 
-</div>
+<form method="post" action="database-write.php" name="myForm" onsubmit="return(validate());"> 
 
 <div>
-<label for="lastname">
-Last name:
+<label for="name">
+Name:
 </label>
-<input type="lastname" name="lastname" id="lastname">
+<input type="text" name="name" id="name"> 
 </div>
 
 <div>
 <label for="email">
 Email:
 </label>
-<input type="email" name="email" id="email">
+<input type="text" name="email" id="email">
+</div>
+
+<div>
+<label for="phone">
+Phone Number:
+</label>
+<input type="text" name="phone" id="phone">
+</div>
+
+<div>
+	<label for="message">
+	Message:
+	</label>
+	<textarea name="message" id="message"></textarea>
 </div>
 
 
@@ -38,6 +47,8 @@ Email:
 <br>
 
 <div>Or Go <a href=".">Back to the Index</a></div>
+
+</div>
 
 
 
