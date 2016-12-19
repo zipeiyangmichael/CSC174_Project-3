@@ -1,4 +1,4 @@
-function validate()
+	function validate()
       {
       
          if( document.myForm.name.value == "" )
@@ -22,9 +22,6 @@ function validate()
             return false;
          }
 
-
-function validateEmail()
-      {
          var emailID = document.myForm.email.value;
          atpos = emailID.indexOf("@");
          dotpos = emailID.lastIndexOf(".");
@@ -36,4 +33,4 @@ function validateEmail()
             return false;
          }
          return( true );
-      }
+         }
